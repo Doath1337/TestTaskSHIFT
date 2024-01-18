@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestTaskSHIFT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestTaskSHIFT_jar</output-path>
+    <root id="archive" name="TestTaskSHIFT.jar">
+      <element id="module-output" name="TestTaskSHIFT" />
+    </root>
+  </artifact>
+</component>
